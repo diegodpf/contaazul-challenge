@@ -1,0 +1,41 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*Repositoty.java</mask>
+      <mask>*Repositoy.java</mask>
+      <mask>*Repository.java</mask>
+      <mask>*/java</mask>
+      <mask>*/jav</mask>
+      <mask>*/ja</mask>
+      <mask>*/j</mask>
+      <mask>*/</mask>
+      <mask>*</mask>
+      <mask>*C.java</mask>
+      <mask>*Co.java</mask>
+      <mask>*Con.java</mask>
+      <mask>*Contr.java</mask>
+      <mask>*Contro.java</mask>
+      <mask>*Control.java</mask>
+      <mask>*Controller.java</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
