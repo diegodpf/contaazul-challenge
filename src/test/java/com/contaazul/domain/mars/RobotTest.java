@@ -3,9 +3,7 @@ package com.contaazul.domain.mars;
 import org.junit.Before;
 import org.junit.Test;
 
-import static com.contaazul.domain.mars.Orientation.EAST;
-import static com.contaazul.domain.mars.Orientation.NORTH;
-import static com.contaazul.domain.mars.Orientation.SOUTH;
+import static com.contaazul.domain.mars.Orientation.*;
 import static org.junit.Assert.assertEquals;
 
 public class RobotTest {
