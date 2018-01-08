@@ -3,19 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Repositoty.java</mask>
-      <mask>*Repositoy.java</mask>
-      <mask>*Repository.java</mask>
-      <mask>*/java</mask>
-      <mask>*/jav</mask>
-      <mask>*/ja</mask>
-      <mask>*/j</mask>
-      <mask>*/</mask>
       <mask>*</mask>
       <mask>*C.java</mask>
       <mask>*Co.java</mask>
@@ -38,6 +28,14 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*R.java</mask>
+      <mask>*Re.java</mask>
+      <mask>*Repo.java</mask>
+      <mask>*Repos.java</mask>
+      <mask>*Reposi.java</mask>
+      <mask>*Reposito.java</mask>
+      <mask>*Repositor.java</mask>
+      <mask>*Repository.java</mask>
     </recentFileMasks>
   </component>
 </application>
