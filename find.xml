@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.java" />
     <recentFileMasks>
-      <mask>*</mask>
-      <mask>*C.java</mask>
-      <mask>*Co.java</mask>
-      <mask>*Con.java</mask>
       <mask>*Contr.java</mask>
       <mask>*Contro.java</mask>
       <mask>*Control.java</mask>
@@ -36,6 +33,10 @@
       <mask>*Reposito.java</mask>
       <mask>*Repositor.java</mask>
       <mask>*Repository.java</mask>
+      <mask>*T.java</mask>
+      <mask>*Te.java</mask>
+      <mask>*Tes.java</mask>
+      <mask>*Test.java</mask>
     </recentFileMasks>
   </component>
 </application>
